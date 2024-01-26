@@ -22,9 +22,9 @@
    <img src="./assets/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
    <img src="./assets/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
    <img src="./assets/postgresql-original.svg" title="psql" alt="psql" width="40" height="40"/>&nbsp;
+   <img src="./assets/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
    <img src="./assets/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
    <img src="./assets/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-   <img src="./assets/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
    <img src="./assets/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
    <img src="./assets/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
    <img src="./assets/babel-original.svg" title="babel" alt="babel" width="40" height="40"/>&nbsp;
