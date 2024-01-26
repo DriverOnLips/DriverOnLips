@@ -9,7 +9,9 @@
 
 
 ## About Me :
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Studying+computer+science+at+BMSTU)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Studying+programming+at+BMSTU)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer:+js/ts,+react)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=There+are+no+impossible+tasks)](https://git.io/typing-svg)
 
 
 ## Languages and Tools :
