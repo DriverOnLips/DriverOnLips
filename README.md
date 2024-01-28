@@ -7,12 +7,10 @@
 
 </div>
 
-
 ## 👨‍🎓 About Me :
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0A104A&lines=Frontend+developer:+js/ts,+react)](https://git.io/typing-svg)
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0A104A&lines=Studying+programming+at+BMSTU)](https://git.io/typing-svg)
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%0A104A&lines=There+are+no+impossible+tasks!)](https://git.io/typing-svg)
-
 
 ## 📚 Languages :
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,7 +28,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-yellow.svg?style=for-the-badge&logo=Babel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23323330.svg?style=for-the-badge&logo=npm&logoColor=white)
-
 
 
 ## 💽 Databases :
