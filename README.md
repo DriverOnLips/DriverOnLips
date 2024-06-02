@@ -47,9 +47,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DriverOnLips&repo=Megachat_frontend)](https://github.com/DriverOnLips/Megachat_frontend)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frontend-park-mail-ru&repo=2023_2_OND_team)](https://github.com/frontend-park-mail-ru/2023_2_OND_team)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DriverOnLips&repo=vk_kinopoisk)](https://github.com/DriverOnLips/vk_kinopoisk)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=frontend-park-mail-ru&repo=2023_2_OND_team)](https://github.com/frontend-park-mail-ru/2023_2_OND_team)
 
 ## 📈 My Stats :
 
